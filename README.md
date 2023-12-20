@@ -1,6 +1,6 @@
 # Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors
 
-This codebase is the official implementation of [`Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors`]() (**AAAI Workshop on Responsible Language Models**)
+This codebase is the official implementation of [`Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors`]() (**AAAI Workshop on Responsible Language Models (ReLM 2024)**)
 
 
 This codebase is mainly based on [DetectGPT](https://github.com/eric-mitchell/detect-gpt).
