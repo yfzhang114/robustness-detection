@@ -1,6 +1,6 @@
 # Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors
 
-This codebase is the official implementation of [`Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors`]() (**AAAI Workshop on Responsible Language Models (ReLM 2024)**)
+This codebase is the official implementation of [`Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors`](https://arxiv.org/abs/2312.12918) (**AAAI Workshop on Responsible Language Models (ReLM 2024)**)
 
 
 This codebase is mainly based on [DetectGPT](https://github.com/eric-mitchell/detect-gpt).
@@ -31,3 +31,13 @@ Second,  run `run.sh`
 
 ## Citing the paper
 If our work is useful for your own, you can cite us with the following BibTex entry:
+```
+@misc{zhang2023assaying,
+      title={Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors}, 
+      author={Yi-Fan Zhang and Zhang Zhang and Liang Wang and Rong Jin},
+      year={2023},
+      eprint={2312.12918},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
